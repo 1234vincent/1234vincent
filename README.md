@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1234vincent
+- 👋 Hi, I’m Vincent Yao
 - 👀 I’m interested in front-end and back-end development.
 - 🌱 I’m currently learning various frameworks including Spring Boot, Django, mobile dev and full-stack development.
 - 💞️ I’m looking to collaborate on all kinds of web and mobile development projects.
